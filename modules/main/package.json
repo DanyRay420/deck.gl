@@ -28,7 +28,7 @@
     "prepublishOnly": "npm run build-bundle && npm run build-bundle -- --env=dev"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "@deck.gl/aggregation-layers": "8.10.0-alpha.2",
     "@deck.gl/carto": "8.10.0-alpha.2",
     "@deck.gl/core": "8.10.0-alpha.2",
