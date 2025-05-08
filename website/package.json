@@ -14,7 +14,7 @@
     "write-heading-ids": "ts-node ../scripts/write-heading-ids.ts"
   },
   "dependencies": {
-    "@loaders.gl/i3s": "^3.4.13",
+    "@loaders.gl/i3s": "^4.3.0",
     "@loaders.gl/las": "^3.4.13",
     "@loaders.gl/obj": "^3.4.13",
     "@loaders.gl/ply": "^3.4.13",
