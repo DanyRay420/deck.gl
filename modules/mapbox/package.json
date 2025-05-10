@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@luma.gl/core": "9.0.0-alpha.35",
-    "@math.gl/web-mercator": "4.0.0-alpha.4",
+    "@math.gl/web-mercator": "4.0.1",
     "@types/mapbox-gl": "^2.6.3"
   },
   "peerDependencies": {
